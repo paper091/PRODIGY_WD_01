@@ -1,0 +1,23 @@
+td{
+    width: 33%;
+    padding: 10p;
+    background-color: black;
+}
+.Navbar{
+    display: inline-block*;
+    background: red;
+    padding-left: 90%;
+    padding-right: 10%;
+    color: aquamarine;
+}
+.NavbarItems{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+
+    /* margin: 10% 90%; */
+    /* padding: 10% 20%; */
+    background: aqua;
+}
